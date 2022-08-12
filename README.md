@@ -1,3 +1,3 @@
 # froshissue2021
 
-Daily Princetonian's Frosh Issue for the year 2021, welcoming Class of 2025, designed by Ananya Grover
+The Daily Princetonian's Frosh Issue for the year 2021, welcoming Class of 2025, designed by Ananya Grover
