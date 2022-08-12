@@ -15,7 +15,7 @@ var frosh_dictionary = [{
   "definition": "n. Grim, dusk-to-dawn studying or writing marathon in which sleep is postponed indefinitely. Often procrastination-induced and caffeine-fueled. Usually followed by prolonged periods of hibernation. Your freshman 15 will probably be 60 percent the food you eat during these. Welcome to college."
 }, {
   "word": "Alumni",
-  "definition": "n. pl. Those who came before. Gosh, they sure do love the place. Prone to wearing abominable combinations of orange and black. See \u201cReunions.\u201d"
+  "definition": "n. pl. Those who came before. Gosh, do they love the place. Prone to wearing abominable combinations of orange and black. See \u201cReunions.\u201d"
 }, {
   "word": "Arch sing",
   "definition": "n. Event where a cappella singing groups perform a few of their favorite tunes in campus archways. Good singing and great acoustics, but the novelty can wear off quickly. A large percentage of the audience is made up of group members\u2019 significant others (or wannabe significant others) and roommates. See \u201cjam,\u201d \u201cBlair Arch.\u201d"
@@ -24,7 +24,7 @@ var frosh_dictionary = [{
   "definition": "n. Ice rink located down-campus where the hockey teams practice. The USG sometimes holds free Skate Nights where you can take dates."
 }, {
   "word": "Band",
-  "definition": "n. The University scramble band. Football halftime shows are occasionally funny and always tasteless. Often uses unconventional instruments, such as a plastic Santa Claus and stop signs. Hard to miss in their extremely plaid orange blazers as they parade through libraries on Dean\u2019s Date or serenade the hapless on Valentine\u2019s Day. "
+  "definition": "n. The University scramble band. Football halftime shows are occasionally funny and always tasteless. Often uses unconventional instruments, such as plastic pumpkins and stop signs. Hard to miss in their extremely plaid orange blazers as they parade through libraries on Dean\u2019s Date or serenade the hapless on Valentine\u2019s Day. "
 }, {
   "word": "Beer",
   "definition": "n. Beverage of choice on Prospect Avenue. Some clubs try to impress potential members by serving such brew-house delicacies as Killian\u2019s or Yuengling, but eight times out of 10 it\u2019s just watered-down Natty Light."
@@ -33,7 +33,10 @@ var frosh_dictionary = [{
   "definition": "n. 1. A popular drinking game in which players attempt to toss a ping-pong ball into an array of Solo cups. Losers may be \u201cforced\u201d to engage in a naked lap. Does not usually involve paddles, because this isn\u2019t Dartmouth. A mainstay of the eating club taproom. Syn: \u201cpong.\u201d 2. The capital of Lebanon. See \u201cboot.\u201d"
 }, {
   "word": "Bicker",
-  "definition": "n. Princeton\u2019s multi-day equivalent of fraternity or sorority rush for the seven selective eating clubs. During Bicker, club members meet sophomores and other upperclass students to determine whether they are worthy of membership. \u201cWorthiness\u201d is determined in a variety of ways. As divisive as it sounds. See \u201csign-in club,\u201d \u201cdouble Bicker.\u201d"
+  "definition": "n. Princeton\u2019s multi-day equivalent of fraternity or sorority rush for the seven selective eating clubs. During Bicker, club members meet sophomores and other upperclass students to determine whether they are worthy of membership. \u201cWorthiness\u201d is determined in a variety of ways. As divisive as it sounds. See \u201csign-in club,\u201d \u201cmulti-club Bicker.\u201d"
+}, {
+  "word": "Blackboard",
+  "definition": "n. Website used to download course assignments, syllabi and readings. Not to be confused with \u201cblackboards,\u201d teaching instruments found in a variety of classrooms and lecture halls around campus on which professors use an archaic white substance known as \u201cchalk.\u201d Slowly being phased out. See \u201cCanvas.\u201d"
 }, {
   "word": "Blair Arch",
   "definition": "n. That large, pretty arch across from Richardson Auditorium. Campus landmark and frequent site of a cappella jams. Saving grace of Matheyites. See \u201cMathey College.\u201d"
@@ -69,13 +72,13 @@ var frosh_dictionary = [{
   "definition": "n. Glossy campus business affairs magazine with large alumni coffers where ex-Future Business Leaders of America gather to talk Goldman. See \u201ci-banking,\u201d \u201cconsulting.\u201d"
 }, {
   "word": "Butler College",
-  "definition": "n. Residential college with the newest buildings prior, of course, to the construction of New College West and Yeh College. Located what used to be far down-campus and now is the center of campus; contains Studio 34, a mythical sandwich shop your senior friends will fantasize about while inebriated."
+  "definition": "n. Residential college with the newest buildings. Located far down-campus; contains Studio 34."
 }, {
   "word": "Cafe Vivian",
   "definition": "n. Slightly pricier food spot located on the first floor of Frist Campus Center that serves amazing flatbread pizzas, calzones, and sandwiches. Styled as a jazz joint, Cafe Viv sometimes features live music."
 }, {
   "word": "Campus Club",
-  "definition": "n. Defunct eating club purchased by the University to hold events. Home to Coffee Club. See \u201cAlcohol Initiative,\u201d \u201cCoffee Club.\u201d"
+  "definition": "n. Defunct eating club purchased by the University to hold events. See \u201cAlcohol Initiative.\u201d"
 }, {
   "word": "Campus fox",
   "definition": "n. The fox that resides on campus, most often spotted up campus. Although multiple foxes have been spotted at once, campus legend says there is only one campus fox. "
@@ -84,13 +87,13 @@ var frosh_dictionary = [{
   "definition": "n. Bicker club known for its three taprooms. The club plays host to a large proportion of athletes, especially field sports. "
 }, {
   "word": "Canvas",
-  "definition": "n. Software to check your coursework. Princeton\u2019s very late step into the modern world of college education. Successor of Blackboard"
+  "definition": "n. New software to check your coursework. Princeton\u2019s very late step into the modern world of college education."
 }, {
   "word": "Cap & Gown Club",
-  "definition": "n. Consistently the most bickered club, Cap has a self-proclaimed reputation for being \u201cchill and diverse\u201d and hosts many athletes from track and field. Some of its classic night out themes include Capmandu and Boxers and Blazers."
+  "definition": "n. Consistently the most bickered club, Cap has a reputation for inclusivity and hosts many athletes from track and field. Some of its classic night out themes include Capmandu and Boxers and Blazers."
 }, {
   "word": "Carl A. Fields Center",
-  "definition": "n. Properly called the Carl A. Fields Center for Equality and Cultural Understanding, but colloquially known as CAF. A building located on Prospect Avenue that hosts events and programming aimed at celebrating diversity."
+  "definition": "n. Properly called the Carl A. Fields Center for Equality and Cultural Understanding, but colloquially known as CAF. A building located on Prospect Avenue that hosts diversity-themed events and programming."
 }, {
   "word": "Carnegie, Lake",
   "definition": "n. Five minutes from campus, five miles long. Scenic venue for crew but too slimy for swimming. Gift of Andrew Carnegie so that Princeton could have a crew team, after then-University President Woodrow Wilson, Class of 1879, asked him for money for University construction. Wilson\u2019s reported comment: \u201cWe asked for bread, and he gave us cake.\u201d"
@@ -102,7 +105,7 @@ var frosh_dictionary = [{
   "definition": "abbrev. Culture and Difference. New distribution requirement beginning with the Class of 2024, and the only requirement that can be satisfied concurrently with another. Interdisciplinary requirement whose applicable courses are in many fields."
 }, {
   "word": "Certificate",
-  "definition": "n. What we call minors, soon to be archaic. Options include finance, theatre studies, environmental studies, political economy, etc. Your certificate area of study must be addressed in some capacity in your thesis. Start planning for these now. See \u201cthesis.\u201d"
+  "definition": "n. What we call minors. Options include finance, theatre studies, environmental studies, political economy, etc. Your certificate area of study must be addressed in some capacity in your thesis. Start planning for these now. See \u201cthesis.\u201d"
 }, {
   "word": "Chapel",
   "definition": "n. Site of religious services and opening exercises at the start of every year. Third-largest university chapel in the world. Contrary to Orange Key legend, it wasn\u2019t built by a Yalie."
@@ -111,7 +114,7 @@ var frosh_dictionary = [{
   "definition": "n. Gorgeous library attached to East Pyne featuring stained-glass windows and amazingly comfortable couches. Naps happen here."
 }, {
   "word": "Charter Club",
-  "definition": "n. Club located extremely far down Prospect Avenue, near the E-Quad. Planned a complete overhaul before COVID-19 closed eating clubs. Now remains a mysterious force on the Street. Site of Friday debauchery"
+  "definition": "n. Club located extremely far down Prospect Avenue, near the E-Quad. Planned a complete overhaul before COVID-19 closed eating clubs. Now remains a mysterious force on the Street."
 }, {
   "word": "CJL",
   "definition": "abbrev. Center for Jewish Life. Self-explanatory building on Washington Road. Popular lunch spot regardless of religious affiliation due to its central location."
@@ -129,7 +132,7 @@ var frosh_dictionary = [{
   "definition": "n. Student-run coffee shop in the taproom of Campus Club. Cheaper alternative to coffee shops on Nassau Street."
 }, {
   "word": "Colonial Club",
-  "definition": "n. Sign-in club that at one point claimed Friday nights from Charter. Often serves hard cider on tap."
+  "definition": "n. Sign-in club that recently claimed Friday nights from Charter. Often serves hard cider on tap."
 }, {
   "word": "Committee on Discipline",
   "definition": "n. The University body responsible for investigating academic integrity and other disciplinary offenses."
@@ -159,10 +162,10 @@ var frosh_dictionary = [{
   "definition": "n. A godsend with everything from nail clippers to bulk candy, found on the first floor of Frist. "
 }, {
   "word": "Daily Princetonian, the",
-  "definition": "n. What you\u2019re reading now. Your one true source of information on life, the universe, and everything, as well as the only daily newspaper on campus and one of the oldest college dailies in the country. Available for free everywhere. An absolute good. A force for justice in an unjust and cruel world. Administrators cringe before its unquestioned power. Completely independent from the University. Also known as the \u2018Prince.\u2019"
+  "definition": "n. What you\u2019re reading now. Your one true source of information on life, the universe, and everything, as well as the only daily newspaper on campus and one of the oldest college dailies in the country. Available for free everywhere. An absolute good. A force for justice in an unjust and cruel world. Administrators cringe before its unquestioned power. Completely independent from the University. Just watch out for the online commenters. Also known as the \u2018Prince.\u2019"
 }, {
   "word": "Dinky Bar",
-  "definition": "n. Where seniors and graduate students who are too mature for the Street go for expensive cocktails."
+  "definition": "n. where seniors and graduate students who are too mature for the Street go for expensive cocktails."
 }, {
   "word": "D-Bar",
   "definition": "abbrev. Debasement Bar. Sole hangout for graduate students, located in the basement of the Graduate College. According to reports, highly awkward. See \u201cGrad College,\u201d \u201cgraduate student.\u201d"
@@ -184,9 +187,6 @@ var frosh_dictionary = [{
 }, {
   "word": "Distribution requirements",
   "definition": "n. Princeton\u2019s plan for a true liberal arts education. Ensures STEM students take copious humanities classes, and humanities students take a few STEM classes. See \u201cP/D/F.\u201d"
-}, {
-  "word": "Double Bicker",
-  "definition": "n. Initiative begun somewhat recently in which bicker clubs allow sophomores to bicker two clubs at once. See \u201cBicker.\u201d"
 }, {
   "word": "Down-campus",
   "definition": "adj., n. Located on the part of campus closer to the lake, down the hill. Begins roughly at Dillon, ends at the lake. Synonyms: \u201cSouth.\u201d Usage: \u201cIt\u2019s a little further down-campus than Edwards.\u201d"
@@ -228,13 +228,13 @@ var frosh_dictionary = [{
   "definition": "n. The mothership. Books on books on books (on shelves.) Large behemoth of a library containing books on every subject imaginable, as well as asbestos. Popular study spot. Deathly quiet. See \u201ccarrel.\u201d"
 }, {
   "word": "First College",
-  "definition": "n. Centrally located residential college soon to be demolished and replaced by Hobson College (named for donor, Mellody Hobson \u201991). An incoherent assortment of buildings that are ugly both inside and out, but boast large suites of up to 11 people that are unavailable elsewhere on campus. Contains a volleyball court and a ceramics studio."
+  "definition": "n. Centrally located residential college. An incoherent assortment of buildings that are ugly both inside and out, but boast large suites of up to 11 people that are unavailable elsewhere on campus. Contains a volleyball court and a ceramics studio."
 }, {
   "word": "FitzRandolph Gate",
   "definition": "n. Gate in front of Nassau Hall. If you walk out the center gate while an undergraduate, you will not graduate. Of course, that\u2019s just a legend. Try it and let us know."
 }, {
   "word": "Forbes brunch",
-  "definition": "n. The concession Princeton had to make to Forbesians to ensure they wouldn\u2019t drop out. In exchange for living in The Land Far Far Away, Forbesians get a chocolate fountain on Sundays. Is it a fair trade? That\u2019s for you to decide."
+  "definition": "n. The concession Princeton had to make to Forbesians to ensure they wouldn\u2019t drop out. In exchange for living in metaphorical Timbuktu, Forbesians get a chocolate fountain on Sundays. Is it a fair trade? That\u2019s for you to decide."
 }, {
   "word": "Forbes College",
   "definition": "n. The res college rumored to exist just west of the Lewis Center for the Arts and Wawa. Only visited by non-Forbesians on weekends due to its fancy brunch spreads. See \u201cForbes brunch.\u201d"
@@ -243,19 +243,19 @@ var frosh_dictionary = [{
   "definition": "n. Brand of boxed (read: dirt cheap and sickeningly sweet) wine. Goes down easy, comes back up more painfully. See \u201cboot,\u201d \u201cTower Club.\u201d"
 }, {
   "word": "Frist",
-  "definition": "n. The campus center. Home of the student government, mailboxes, and chicken tenders. A fun and relaxing place to socialize and study as long as you don\u2019t take introductory Chinese. Not to be confused with First. See \u201cLate meal.\u201d"
+  "definition": "n. The campus center. Home of the student government, mailboxes, and yummy quesadillas. A fun and relaxing place to socialize and study as long as you don\u2019t take introductory Chinese. Not to be confused with First. See \u201cLate meal.\u201d"
 }, {
   "word": "Fraternities",
   "definition": "n. pl. First-years, avert your eyes. Groups of males that gather to drink and make lots of grunting noises. First-years are not allowed to rush Greek organizations. Those who do face suspension. Not a big presence on campus, but they may be your ticket into a bicker club."
 }, {
   "word": "Frosh Week",
-  "definition": "n. The week before classes, when sophomores and upperclass students reacquaint themselves with campus life and “meet” the first-years, who are kept busy by an array of University-sponsored activities. Prime time to drink copious amounts of alcohol amid nighttime mosh pits in the eating clubs’ backyards. In recent years, actual Frosh have been banned. You can thank the Class of 2022 (and the pandemic, if you've heard of it). See \u201cMcCosh.\u201d"
+  "definition": "n. The week before classes, when sophomores and upperclass students reacquaint themselves with campus life and “meet” the first-years, who are kept busy by an array of University-sponsored activities. Prime time to drink copious amounts of alcohol amid nighttime mosh pits in the eating clubs’ backyards. See \u201cMcCosh.\u201d"
 }, {
   "word": "FYRE",
-  "definition": "abbrev. First-Year Residential Experience. A group of \u201crequired\u201d assemblies and zee group meetings that begin during orientation, and end sometime during first semester. Cover important topics such as diversity and inclusion."
+  "definition": "abbrev. First-Year Residential Experience. A group of \u201crequired\u201d assemblies and zee group meetings that begin during orientation, and end sometime during first semester. Cover important topics such as diversity and socioeconomic status."
 }, {
   "word": "Garden Theatre, Princeton",
-  "definition": "n. Community theater. Shows mostly artsy films as well as a few big-budget flicks. Good first date. Occasionally offers free movies for students sponsored by USG."
+  "definition": "n. Community theater. Shows mostly artsy films as well as a few big-budget flicks. Good first date. Free movies for students on weekends sponsored by USG."
 }, {
   "word": "Graduate College",
   "definition": "the. n. Commonly called the \u201cGrad College.\u201d A mythical castle across the golf course behind Forbes rumored to be inhabited by those they call \u201cgraduate students.\u201d Undergrads like to climb its tower to take pictures of the view and eat in its dining hall on Thursday nights, when dinner features specialty food stations with made-to-order sesame noodles, quesadillas, etc. See \u201cD-bar.\u201d"
@@ -266,9 +266,6 @@ var frosh_dictionary = [{
   "word": "Graduate student",
   "definition": "n. An individual smart enough to translate Kierkegaard into 14 languages but mostly isolated from campus life. Many are forced to live roughly one mile from central campus. Often characterized as \u201csketchy.\u201d"
 }, {
-  "word": "GSRC",
-  "definition": "abbrev. Gender and Sexuality Resource Center. Name is self-explanatory. Located in Frist. Replaced centers formerly known as the  Women*s Center and LGBT Center."
-}, {
   "word": "HA",
   "definition": "abbrev. Historical Analysis. Distribution requirement that can be fulfilled by, you guessed it, a history class."
 }, {
@@ -276,7 +273,7 @@ var frosh_dictionary = [{
   "definition": "n. Faculty member who acts as den mother or father for the first-years and sophomores in the residential colleges. "
 }, {
   "word": "Hoagie Haven",
-  "definition": "n. A Princeton institution, best known for catering to the late night wishes of drunken eating club go-ers. Now with earlier closing times, the small hoagie shop on Nassau Street still serves up sandwiches filled with things like french fries, chicken tenders, multiple burger patties, and buffalo sauce, often in combination. Tied with Wawa for the most dangerous of drunk-food destinations."
+  "definition": "n. A Princeton institution. A small hoagie shop on Nassau Street that serves sandwiches filled with things like french fries, chicken tenders, multiple burger patties, and buffalo sauce, often in combination. The most dangerous of drunk-food destinations."
 }, {
   "word": "Holder Howl",
   "definition": "n. A moment of collective campus catharsis at midnight each Dean\u2019s Date when students gather in Holder Courtyard in Rocky to release a primal scream of fear and frustration. See \u201cDean\u2019s Date.\u201d"
@@ -294,7 +291,7 @@ var frosh_dictionary = [{
   "definition": "n. Pseudo-bacchanal scheduled for the weekend after the end of spring semester classes. With theses complete and exams two weeks distant, eating clubs host wine-filled formal and semiformal dinners. The only ones who have it bad are juniors finishing (starting) their JPs and first-year males, who aren\u2019t invited."
 }, {
   "word": "I-banking, nickname",
-  "definition": "investment banking. What many of your classmates will go on to do. Similar to consulting in its level of money and level of pointlessness."
+  "definition": "investment banking. What many of your classmates will go on to do. "
 }, {
   "word": "ICC",
   "definition": "abbrev. Interclub Council. Group made up of the 11 eating club presidents. Coordinates relations between Prospect Avenue, the municipality, and the University."
@@ -304,6 +301,9 @@ var frosh_dictionary = [{
 }, {
   "word": "Interactor",
   "definition": "n. Upperclass B.S.E. student who helps advise B.S.E. first-years, especially at the beginning of the year. Periodically checks in and hosts study breaks."
+}, {
+  "word": "IRC",
+  "definition": "abbrev. International Relations Council. Umbrella group somehow related to Whig-Clio that organizes Model UN conferences. See \u201cTower Club,\u201d \u201cSPIA.\u201d"
 }, {
   "word": "Ivy Club",
   "definition": "n. Bicker club with a reputation for elitism, mahogany, and international students. Its women\u2019s bathroom may be the most photographed part of Princeton, after Blair Arch. "
@@ -323,6 +323,9 @@ var frosh_dictionary = [{
   "word": "JP",
   "definition": "abbrev. junior paper. Lengthy independent work for juniors meant to prepare them for the senior thesis. Some departments require one; most require two. Tragic reminder of impending mortality."
 }, {
+  "word": "Junior slums",
+  "definition": "n. Upperclass dorms located up-campus; Princeton\u2019s version of slums, nicknamed, \u201cslums.\u201d Don\u2019t be fooled by the Gothic stone."
+}, {
   "word": "Keller Center",
   "definition": "n. Center located near the E-quad that sponsors events, classes, and programming related to entrepreneurship and innovation. Stop by before you drop out to work on your start-up full-time."
 }, {
@@ -336,7 +339,7 @@ var frosh_dictionary = [{
   "definition": "n. The only thing that makes upperclass students jealous of first-years. In theory, an option for students who miss dining hall meal times. In practice, free noms and mixers See \u201cFrist.\u201d"
 }, {
   "word": "Lawnparties",
-  "definition": "n. Afternoon drink-a-thon and dance-a-thon on the lawn of each eating club, held in early fall and at the end of spring Houseparties. Known for importing great bands and creating a massive influx of sundresses on Prospect Avenue. Traditionally, an explosion of preppy clothing."
+  "definition": "n. Afternoon drink-a-thon and dance-a-thon on the lawn of each eating club, held in early fall and at the end of spring Houseparties. Known for importing great bands and creating a massive influx of sundresses on Prospect Avenue. Time of year to wear your preppiest clothing \u2014 pastels encouraged."
 }, {
   "word": "LCA",
   "definition": "abbrev. Lewis Center for the Arts. Beautiful, modern building complex that serves as Princeton\u2019s home for the arts. Safe haven for theater kids."
@@ -346,6 +349,9 @@ var frosh_dictionary = [{
 }, {
   "word": "Lewis Library",
   "definition": "n. Large, modern science library located down-campus across Washington Road. Its treehouse floor is an especially popular study spot featuring many windows."
+}, {
+  "word": "LGBT Center, the",
+  "definition": "n. Center for lesbian, gay, bisexual, transgender and queer students and allies. Provides safe space on the second floor of Frist. Sponsors events and programming throughout the year and provides resources for interested students."
 }, {
   "word": "List",
   "definition": "n. Method that bicker clubs use to determine who can enter for a night out. What first-years and sophomores agonize about getting onto. Why juniors and seniors in these clubs get texts from younger students they barely know."
@@ -371,6 +377,9 @@ var frosh_dictionary = [{
   "word": "McGraw",
   "definition": "abbrev. McGraw Center for Teaching and Learning. Academic support center that offers one-on-one and group tutoring for many introductory courses, as well as other resources for students. Located in Frist. Also a good study spot. "
 }, {
+  "word": "Multi-club Bicker",
+  "definition": "n. Initiative begun recently in which some of the bicker clubs allowed sophomores to bicker two clubs at once. See \u201cBicker.\u201d"
+}, {
   "word": "Murray Dodge",
   "definition": "n. Free cookies and tea but be prepared to hand over your prox as collateral. Also don\u2019t forget to wash your own mugs once you\u2019re done. Try the matcha tea cookies if you dare. This place is an extremely popular study spot, so go at off-peak times if you want to get a seat."
 }, {
@@ -381,16 +390,13 @@ var frosh_dictionary = [{
   "definition": "n. Princeton yearbook containing only the senior photos. To get all the other stuff you associate with yearbooks, you have to shell out some extra cash for the Bric-a-Brac. See \u201cBric-a-Brac.\u201d"
 }, {
   "word": "Nassau Weekly",
-  "definition": "n. Also \u201cthe Nass.\u201d A weekly tabloid co-founded in the early 80s by a dude who now runs The New Yorker. Known for humorous \u201cVerbatim\u201d section, which is filled with random overheard quotes from around campus, and for printing other random musings. See \u201cWPRB,\u201d \u201cSt.A\u2019s.\u201d"
+  "definition": "n. Also \u201cthe Nass.\u201d A weekly tabloid distributed far less than weekly. Known for humorous \u201cVerbatim\u201d section, which is filled with random overheard quotes from around campus, and for printing other random gibberish. See \u201cWPRB,\u201d \u201cSt.A\u2019s.\u201d"
 }, {
   "word": "netID",
   "definition": "n. The part of your email address preceding \u201c@princeton.edu\u201d and your username for most campus websites."
 }, {
   "word": "New York City",
   "definition": "n. Just an hour-and-a-half train ride away. Sometimes certain classes take you there for free."
-}, {
-  "word": "NCW",
-  "definition": "abbrev. New College West. One of Princeton\u2019s newest pair of residential colleges. Located at the far-southern end of campus. Not yet named for a donor, the Class of 2026 will be the first class of students to grace its halls… Well, maybe. If it’s finished in time. See \u201cYeh College.\u201d"
 }, {
   "word": "Nude Olympics",
   "definition": "n. Sophomore rite of passage banned in 1999 as part of an effort to reduce drunken revelry. Celebrated by running naked through Holder Courtyard at midnight on the night of each year\u2019s first snowfall."
@@ -480,10 +486,10 @@ var frosh_dictionary = [{
   "definition": "n. The ultimate drinking challenge: one beer at every eating club in one night. A favored item on senior bucket lists. Most commonly conquered on Princetoween or Dranksgiving. Although only 11 clubs are operational, the 12th is Campus Club."
 }, {
   "word": "Prox",
-  "definition": "1. n. Common name for PUID, or the Princeton University TigerCard. 2. v. To unlock a door by holding your PUID close to an electronic sensor. Usage: \u201cCould you prox me in?\u201d See \u201cPUID.\u201d"
+  "definition": "1. n. Common name for PUID, or the Princeton University TigerCard. 2. v. To unlock a door by holding your PUID close to an electronic sensor. Humping the wall in the process is optional. Usage: \u201cCould you prox me in?\u201d See \u201cPUID.\u201d"
 }, {
   "word": "P-Safe",
-  "definition": "abbrev. Public Safety. University cops responsible for regulating parking, ignoring room parties, and opening doors for locked-out students."
+  "definition": "abbrev. Public Safety. University cops responsible for regulating parking, ignoring room parties, and opening doors for locked-out students. Despite years of effort by the police union, the officers don\u2019t carry guns."
 }, {
   "word": "PTL",
   "definition": "abbrev. Post-Thesis Life. The time of year after seniors have turned in their thesis, but before graduation, where they have no responsibilities in life. A time well spent but poorly remembered."
@@ -507,10 +513,10 @@ var frosh_dictionary = [{
   "definition": "n. Website students use to plan their courses for each semester. Has all possible courses and precepts so students can optimize their classes."
 }, {
   "word": "Real talk princeton",
-  "definition": "n. Tumblr page run by anonymous students who answer basically any question about Princeton. When you have a question nobody knows the answer to, or you don\u2019t feel comfortable asking your friends, this is the place to go. See \u201cTiger Confessions.\u201d"
+  "definition": "n. Tumblr page run by anonymous students who answer basically any question about Princeton. When you have a question nobody knows the answer to, or you don\u2019t feel comfortable asking your friends, this is the place to go."
 }, {
   "word": "Residential college",
-  "definition": "n. Your home at Princeton for at least your first two years of college. There are now seven residential colleges on campus: Rocky, Mathey, Butler, First, Whitman, Forbes, Yeh, and New College West. Each college varies greatly in amenities, types of rooms, and location, but they all provide a sense of community, and more importantly, a source of free gear."
+  "definition": "n. Your home at Princeton for at least your first two years of college. There are six residential colleges on campus: Rocky, Mathey, Butler, First, Whitman, and Forbes. Each college varies greatly in amenities, types of rooms, and location, but they all provide a sense of community, and more importantly, a source of free gear."
 }, {
   "word": "Residential College Facebook",
   "definition": "n. Great Value-brand Tigerbook. It does the job in the meantime, but doesn\u2019t hold up to Tigerbook."
@@ -579,7 +585,7 @@ var frosh_dictionary = [{
   "definition": "abbrev. School of Public and International Affairs. Formerly selective concentration for students interested in becoming bankers or consultants and learning the language of bureaucracy, as well as those rare folk who actually do want to save the world through government (but will probably end up in banking or consulting). "
 }, {
   "word": "SPIA fountain",
-  "definition": "n. Idyllic fountain and pool located in Scudder Plaza, north of Robertson Hall. The entire student body can be found taking photos here pre-Lawnparties. Popular wading spot in the spring, especially after SPIA theses are submitted. Beware of skateboarders."
+  "definition": "n. Idyllic fountain and pool located in Scudder Plaza, north of Robertson Hall. The entire student body can be found taking photos here pre-Lawnparties. Popular wading spot in the spring, especially after SPIA theses are submitted."
 }, {
   "word": "Stars for Stoners",
   "definition": "nickname. AST 203: The Universe. Purported to actually be a somewhat difficult class involving actual equations. See \u201cP/D/F.\u201d"
@@ -597,7 +603,7 @@ var frosh_dictionary = [{
   "definition": "n. Code for free food. At any given time, there is a high chance some study break is happening around campus. Most common benefactors of study breaks include res colleges, RCAs, and clubs."
 }, {
   "word": "Terrace Club",
-  "definition": "n. Sign-in club known for artsy types, vegans and stoners. Popular end-of-night stop for all of campus. The only eating club not actually located on Prospect Avenue."
+  "definition": "n. Sign-in club known for artsy types, vegans and hipsters. Popular end-of-night stop for all of campus. The only eating club not on Prospect Avenue."
 }, {
   "word": "Thesis",
   "definition": "n. The T word. Major senior pastime, required of every A.B. student and some B.S.E. students. Most are close to 100 pages. Often replaces socialization, exercise, happiness, etc. in the spring. "
@@ -626,9 +632,6 @@ var frosh_dictionary = [{
   "word": "Twenty-One (21) Club",
   "definition": "n. Secret drinking organization founded in 1881, composed of 42 male juniors and seniors who consume 21 beers in 42 minutes at an annual contest. Members are culled from bicker clubs, fraternities, and sports teams."
 }, {
-  "word": "USG",
-  "definition": "abrrev., n. Undergraduate Student Government. A group of aspiring politicians who are responsible for the multiple free orange t-shirts shoved into the back of your dresser.\u201d"
-}, {
   "word": "Up-campus",
   "definition": "adj., n. Located on the part of campus closer to Nassau Street, up the hill. Begins around Dillon Gym and extends through Rocky. Synonym: \u201cnorth.\u201d Usage: \u201cFrom here, go up-campus to find Brown.\u201d"
 }, {
@@ -636,7 +639,7 @@ var frosh_dictionary = [{
   "definition": "n. Officially, the Princeton University Store. Located at 36 University Place, across from Blair Arch. Sells food, dorm items, and school supplies. Overpriced, but great location."
 },  {
   "word": "Wa, The",
-  "definition": "n. Campus colloquialism for the Wawa convenience store. Located between the Dinky and Forbes. Popular late night meal spot, but prepare to wait an egregious amount of time on nights out."
+  "definition": "n. Campus colloquialism for the Wawa convenience store. Located between the Dinky and Forbes."
 }, {
   "word": "Whig-Clio",
   "definition": "abbrev. The American Whig-Cliosophic Society. Centuries-old debate society that hosts such topical events as the Annual Latke versus Hamantaschen Debate. "
@@ -644,8 +647,11 @@ var frosh_dictionary = [{
   "word": "Whitman College",
   "definition": "n. Residential college that bears a striking resemblance to the castle in Shrek. As the newest college, built in 2007, it has air conditioning and very nice rooms. "
 }, {
+  "word": "Women*s Center, the",
+  "definition": "n. Center for women\u2019s issues. Provides an often-quiet study space on the second floor of Frist. Sponsors events and programming for interested students."
+}, {
   "word": "WPRB",
-  "definition": "n. Student-run, community-supported independent radio station located in the basement of Bloomberg Hall. See \u201cTerrace Club.\u201d"
+  "definition": "n. Student-run, community-supported independent radio station located in the basement of Bloomberg Hall. Owns the Nass. See \u201cTerrace Club.\u201d"
 }, {
   "word": "Writing Center",
   "definition": "n. Singlehandedly responsible for helping first-years survive writing sem. Offers individual appointments to help at any point in the writing process."
@@ -653,14 +659,11 @@ var frosh_dictionary = [{
   "word": "Wucox",
   "definition": "n. Portmanteau for \u201cWu/Wilcox dining hall.\u201d Large dining hall that serves Butler and First Colleges. Frequented by athletes and gym rats post-workout."
 }, {
-  "word": "Yeh College",
-  "definition": "n. One of Princeton\u2019s newest pair of residential colleges. Located on the far-southern end of campus. Named for Jaimie and James Yeh \u201987, the Class of 2026 will be the first class of students to grace its halls… Well, maybe. If it’s finished in time. See \u201cNew College West.\u201d"
-}, {
   "word": "Zee group",
   "definition": "abbrev. Group of advisees. The 20 or so first-years frequently found under the wing of a residential college adviser. May or may not become close friends over the course of the year. Statistically, at least one permutation within the group will hook up."
 }, {
   "word": "Zoom",
-  "definition": "n. The death of your eyeballs, your computer battery, and your traditional college education. Hopefully entirely phased out with the Class of 2026."
+  "definition": "n. The death of your eyeballs, your computer battery, and your traditional college education. Begone, classrooms. We’ll see what happens this year."
 }];
 
 var dictionary_content = document.getElementById("dictionary-content");

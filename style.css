@@ -1,17 +1,14 @@
 html, body {
-  padding: 0;
-  margin: 0;
+  padding: 0px;
+  margin: 0px;
   font-family: sofia-pro, sans-serif;
-  overflow-x: hidden !important;
-
 }
-
 .name-logo {
   font-family: minion-pro, times, serif; margin: 0; padding: 0; margin-top: 10px; font-size: 24px; text-align: center;
 }
 
 .tag{
-  background: rgb(255, 138, 80);
+  background: #ff9600;
   padding:3px 7px;
   font-size:14px;
   color:#fff;
@@ -37,7 +34,7 @@ html, body {
   padding-top: 16px;
   font-family: sofia-pro, sans-serif;
   color: #1e3d59;
-  padding-bottom: 5px;
+  padding-bottom: 16px;
   
 }
 
@@ -98,11 +95,6 @@ html, body {
 
 .topnav-right {
   float: right;
-  overflow: hidden;
-  background-color: #1e3d59;
-  box-shadow: 0px 1px 2px rgba(50, 50, 50, .1), 
-		0px 2px 4px rgba(60, 60, 60, 0.1);
-   z-index:1;
 }
 
 
@@ -162,6 +154,7 @@ font-size: 20px;
 
 .container{
 float: left;
+
 padding-left: 20px;
 padding-right: 20px;
 }
@@ -185,7 +178,7 @@ width: 65%;
 	font-family: sofia-pro-soft, sans-serif;
 }
 body{
-	background-color: rgba(255, 127, 80, 0.120);
+	background-color: rgba(253, 204, 146, 0.2);
 }
 h1{
 	text-align: center;
@@ -194,7 +187,7 @@ h1{
 }
 .content{
 	width: 65vw;
-	height: auto;
+	height: 260px;
 	margin: 20px 0;
 	background-color: #fff;
 	 box-shadow: 0px 1px 2px rgba(50, 50, 50, .1), 
@@ -252,14 +245,12 @@ img{
   width: 100%;
   height: 100%;
   border-radius: 5px;
-  object-fit: cover;
 }
 
 .thumbnail{
   width: 190px;
   height: 150px;
   margin-top:10px;
-
 
 }
 
@@ -276,7 +267,7 @@ input[type=text], select {
 
 #subscribe-button {
   width: 100%;
-  background-color: rgb(255, 138, 80);
+  background-color: #ff9600;
   opacity: 1.0;
   color: white;
   padding: 14px 20px;
@@ -340,7 +331,7 @@ input[type=text], select {
   float:right;
   margin-right: 20px;
   margin-left: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   
 }
 
@@ -356,7 +347,7 @@ input[type=text], select {
 	border-radius: 15px;
   background: #ffffff; 
   overflow: hidden;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   padding-bottom: 20px;
   text-align: center;
   }
@@ -384,20 +375,11 @@ input[type=text], select {
     margin-top: 20px;
   }
 
-  .footer-editor{
-    clear: both;
-    width: 100%;
-    background-color: #ff9600;
-    text-align: center;
-    color: white;
-    padding: 15px;
-  }
-
-  .footer h2, .footer-editor h2{
+  .footer h2{
         font-family: sofia-pro, sans-serif;
   }
 
-  .footer p, .footer-editor p{
+  .footer p{
     font-size: 18px;
   }
 
@@ -459,191 +441,8 @@ input[type=text], select {
   margin: auto;
 } */
 
-#myBtnContainer{
-  /* padding-left: 10%;
-  padding-right: 10%; */
-  padding-bottom: 0.3rem;
-  align-items: center;
-}
-
-.btn1 {
-  border: none;
-  outline: none;
-  padding: 16px 18px;
-  background-color: #f1f1f1;
-  cursor: pointer;
-  align-self: center;
-  border-radius: 20px;
-  box-shadow: 0px 1px 2px rgba(50, 50, 50, .1), 
-		0px 2px 4px rgba(60, 60, 60, 0.1);
-   z-index:1;
-  margin: 5px;
-   font-size: 1em;
-   color: #1e3d59;
-}
-
-#top h4, #top-editor h4 {
-  font-size: 22px;
-  font-weight:normal;
-  color: #4ca0c7;
-  margin-bottom: 0.3rem;
-}
-
-#top h3{
-  margin-top: 0rem;
-  color: #4ca0c7;
-}
-
-.cartoon{
-  width: 80%;
-  float: right;
-  max-width: 768px;
-  margin-right: 20px;
-  margin-left: 20px;
-  box-shadow: 0px 1px 2px rgba(50, 50, 50, .1), 
-		0px 2px 4px rgba(60, 60, 60, 0.1);
-	border-radius: 15px;
-  background: #ffffff; 
-  overflow: hidden;
-  margin-bottom: 30px;
-  padding-bottom: 20px;
-  text-align: center;
-  }
-
-  .cartoon img{
-  width: 300px; 
-  /* height: 250px;  */
-  border-radius: 0;
-  
-  
-  }
-
-  .cartoon h3{
-    font-family: sofia-pro, sans-serif;
-    color: #1e3d59;
-    font-size: 24px;
-  }
-
-  .cartoon h4 {
-    font-size: 20px;
-    font-weight:normal;
-    color: #4ca0c7;
-    margin-top:-13px;
-  }
-
-  .cartoon p{
-    padding-left: 1.5em;
-    padding-right: 1.5em;
-
-  }
-
-  #cookie {
-    margin-top: -30px;
-  }
-
-  .crossword{
-    width: 80%;
-    float: right;
-    max-width: 768px;
-    margin-right: 20px;
-    margin-left: 20px;
-    box-shadow: 0px 1px 2px rgba(50, 50, 50, .1), 
-      0px 2px 4px rgba(60, 60, 60, 0.1);
-    border-radius: 15px;
-    background: #ffffff; 
-    overflow: hidden;
-    margin-bottom: 30px;
-    padding-bottom: 20px;
-    text-align: center;
-    }
-  
-    .crossword img{
-    width: 300px; 
-    /* height: 250px;  */
-    border-radius: 0;
-    
-    
-    }
-  
-    .crossword h3{
-      font-family: sofia-pro, sans-serif;
-      color: #1e3d59;
-      font-size: 24px;
-    }
-  
-    .crossword h4 {
-      font-size: 20px;
-      font-weight:normal;
-      color: #4ca0c7;
-      margin-top:-13px;
-    }
-
-  
-
-  #top-editor {
-    width: 100%;
-    height: auto;
-    background-color:#fff;
-    color: #1e3d59;
-    padding-top: 30px;
-    padding-left: 15%;
-    padding-right: 15%;
-    padding-bottom: 30px;
-    font-family: sofia-pro-soft, sans-serif;
-    font-size: 18px;
-    line-height: 2em;
-    box-shadow: 
-        0px 2px 4px rgba(60, 60, 60, 0.1);  
-  }
-
-  #subtitle-editor {
-    text-align: center;
-  }
-
-  #subtitle-editor-2 {
-    text-align: center;
-    margin: 0px;
-  }
- 
 
 
-  #back-editor {
-    color: #4ca0c7;
-  }
-
-  .footer #credit, .footer-editor #credit {
-    font-size: 21px;
-  }
-
-  .credit-advice {
-    color: #4ca0c7;
-    font-style: italic;
-    font-size: 18px;
-  }
-
-  #content-advice p {
-    font-size: 22px;
-  }
-
-  .right-advice {
-    padding-left: 20%;
-  }
-
-  .left-advice {
-    padding-right: 20%;
-  }
-
-  .campus-demo {
-    margin:auto;
-    text-align:center;
-  }
-
-  .campus-subtitle {
-    text-decoration: none;
-    text-align:center;
-    color: #4ca0c7;
-    font-size:30px;
-  }
 
 @media screen and (max-width: 1250px){
   .content{
@@ -666,11 +465,11 @@ input[type=text], select {
   margin-right: 10px;
 }
 
-.ad, .cartoon{
+.ad{
   margin-right: 10px;
 }
 
-.ad img, .cartoon img{
+.ad img{
   margin-left: 0;
   margin-right: 0;
 }
@@ -683,7 +482,7 @@ input[type=text], select {
   .content{
     display: block;
 	width: 67vw;
-	height: auto;
+	height: 420px;
   margin: 20px 0;
   text-align: center;
   margin-top: 0px;
@@ -723,7 +522,7 @@ input[type=text], select {
   display: -ms-grid;
   display: grid;
   font-family: sofia-pro, sans-serif;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   margin-right: 0px;
   width: 90%;
   
@@ -749,19 +548,11 @@ input[type=text], select {
 
 .topnav{
   margin-top: 0vh;
-  width: 100vw;
 }
 
-
-
-.btn1 {
-  font-size: 15px;
 }
 
-#top h4, #top-editor h4 {
-  font-size: 18px;
-}
-
+@media screen and (max-width: 1200px) {
 
 
   #title{
@@ -778,7 +569,9 @@ max-width: 100%;
 width: 100vw;
 }
 
-
+body{
+  width: 100vw;
+}
 
 .sidebar{
   width: 100%;
@@ -806,8 +599,7 @@ width: 100vw;
 
 }
 
-
-.ad img, .cartoon img{
+.ad img{
   
   width: 300px;
   height: fit-content; 
@@ -815,7 +607,7 @@ width: 100vw;
 
 }
 
-.ad, .cartoon {
+.ad {
   width: 90%;
   max-width: 100%;
   margin-right: 0px;
@@ -849,22 +641,14 @@ width: 100vw;
 
 
 @media screen and (max-width: 550px) {
-
-  .topnav-right {
-    display: none;
- }
   
 .thumbnail{
   width: 200px;
   height: 150px;
 }
 
-.content-body{
-  width: 100vw;
-}
-
 .content{
-  height: auto;
+  height: 480px;
   width: 100%;
 }
 
@@ -873,7 +657,7 @@ width: 100vw;
 }
 
 
-.ad, .cartoon, .crossword{
+.ad{
   text-align: center;
   width: 100%;
   display: flex;
@@ -883,9 +667,9 @@ width: 100vw;
   
 }
 
-/* .ad img, .cartoon img{
+.ad img{
   margin-left: 20px;
-} */
+}
 
 
 
@@ -895,33 +679,10 @@ width: 100vw;
   
 }
 
-.container {
+.container sidebar{
   width: 100%;
   margin: 0;
 }
 
-#myBtnContainer{
-  margin-left: 1.2rem ;
-  padding-top: 0.5rem;
-}
 
-
-}
-
-.btn1:hover {
-  background-color: #ddd;
-}
-
-.btn1.active {
-  background-color: #1e3d59;
-  color: white;
-}
-
-.filterDiv {
-  color: #ffffff;
-  display: none;
-}
-
-.show {
-  display: block;
 }
